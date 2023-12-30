@@ -1,4 +1,4 @@
 # qules-app
-simple user managed calculator application written in python named after my little lovely sister though not her real name;
+simple calculator application interface design with html and css, named after my little lovely sister not her real name though;
  
-Link http://45.79.211.246/
+ runs on VM link http://45.79.211.246/
